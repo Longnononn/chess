@@ -1,0 +1,12 @@
+{
+  "name": "chess-web-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'bundled by wrangler during publish'",
+    "start": "wrangler dev"
+  },
+  "dependencies": {
+    "chess.js": "^1.1.2"
+  }
+}
